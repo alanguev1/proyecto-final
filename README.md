@@ -41,7 +41,7 @@ En nuestra consultora contamos con 3 roles fundamentales
 Contamos el profesional:
     - Alan Joel Guevara
 
-Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos, así como para aprovechar el potencial del machine learning en nuestro proyecto. Se puede consultar el desarrollo y divicion de roles y tareas en [Gantt](https://github.com/proyecto-final/Scrum/Diagrama de Gantt.xlsx).
+Cada uno de estos roles es fundamental para el éxito de nuestro proyecto, y juntos trabajamos en colaboración para garantizar la calidad y la utilidad de los datos que manejamos, así como para aprovechar el potencial del machine learning en nuestro proyecto. Se puede consultar el desarrollo y divicion de roles y tareas en [Gantt](https://github.com/alanguev1/proyecto-final/blob/main/Scrum/Diagrama%20de%20Gantt.xlsx).
 
 # 'Alcance' 📝
 Este proyecto tiene como alcance examinar cómo los taxis y los servicios de viaje compartido influyen en la emisión de carbono en la ciudad de Nueva York. A través del análisis de datos relacionados con el tráfico y las emisiones de CO2, buscamos identificar soluciones sostenibles que permitan disminuir la huella de carbono de estos servicios. Además, evaluaremos la viabilidad de incorporar una flota de taxis en la ciudad de Nueva York como parte de las medidas para lograr una mayor sostenibilidad ambiental.
