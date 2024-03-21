@@ -14,6 +14,8 @@ Para lograr este objetivo, la empresa ha recurrido a nuestra consultora. La misi
 
 A través de la exploración de datos y el análisis de tendencias, esperamos aportar soluciones significativas que beneficien tanto a la empresa como al medioambiente.
 
+![INSIGHT](img/DATA INDIGHT.jpeg)
+
 # Descripción 📝
 Este proyecto tiene como objetivo examinar cómo los taxis y los servicios de viaje compartido influyen en la emisión de carbono en la ciudad de Nueva York. A través del análisis de datos relacionados con el tráfico y las emisiones de CO2, buscamos identificar soluciones sostenibles que permitan disminuir la huella de carbono de estos servicios. Además, evaluaremos la viabilidad de incorporar una flota de taxis en la ciudad de Nueva York como parte de las medidas para lograr una mayor sostenibilidad ambiental.
 
