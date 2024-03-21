@@ -23,11 +23,6 @@ DATA INSIGHT solutions es una consultora especializada en análisis, ciencia e i
 Impulsados por nuestra visión de un futuro más sostenible y alineados con las tendencias del mercado, exploramos activamente la relación entre los datos y las oportunidades de negocio. Nuestra misión es proporcionar insights valiosos que permitan a las empresas tomar decisiones informadas y rentables.
 
 En DATA INSIGHT solutions contamos con un equipo de profesionales especializados en análisis de datos, machine learning y tecnologías cloud. Nos dedicamos a desbloquear el potencial de los datos para que empresas, como la tuya, avancen hacia el futuro con confianza y éxito.
-DATA INSIGHT solutions es una consultora especializada en análisis, ciencia e ingeniería de datos, dedicada a potenciar decisiones estratégicas que maximicen las ganancias de nuestros clientes. Con un compromiso inquebrantable hacia la excelencia y el perfeccionismo en los detalles, hemos liderado proyectos exitosos en diversos sectores.
-
-Impulsados por nuestra visión de un futuro más sostenible y alineados con las tendencias del mercado, exploramos activamente la relación entre los datos y las oportunidades de negocio. Nuestra misión es proporcionar insights valiosos que permitan a las empresas tomar decisiones informadas y rentables.
-
-En DATA INSIGHT solutions contamos con un equipo de profesionales especializados en análisis de datos, machine learning y tecnologías cloud. Nos dedicamos a desbloquear el potencial de los datos para que empresas, como la tuya, avancen hacia el futuro con confianza y éxito.
 
 
 ## `Roles`
