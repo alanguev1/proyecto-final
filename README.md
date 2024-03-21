@@ -4,7 +4,7 @@
 
 </div>
 
-![NYCtaxis]([img/image.jpg](https://github.com/alanguev1/proyecto-final/blob/main/img/DATA%20INDIGHT.jpeg))
+![NYCtaxis](img/image.jpg)
 
 ### `Contexto`
 
