@@ -86,7 +86,7 @@ Este enfoque pretende reducir el impacto ambiental de la flota de transporte de 
 ### DISMINUCIÓN DE CONTAMINACIÓN SONORA EN FLOTA DE TAXIS
 
 -  Definición: Reducir la contaminación sonora en la flota de vehículos eléctricos en comparación con los de combustión, utilizando la velocidad promedio como indicador y estimando la emisión de presión sonora por tipo de vehículo.
--  Objetivo temporal: Reducir la contaminación sonora en la flota de vehículos eléctricos en comparación con los de combustión en un plazo definido, basado en la implementación de medidas para promover el uso de vehículos eléctricos en áreas urbanas y de alto tráfico.
+-  Objetivo temporal: Reducir 50 % el nivel de presión sonora acumulado en los horarios de congestión para la flota de vehículos eléctricos en comparación con los de combustión. 
 -  Fórmula:  ((Emisiones acústicas de la flota de taxis con vehículos de combustión interna - Emisiones acústicas de la flota de taxis con vehículos eléctricos) / Emisiones acústicas de la flota de taxis con vehículos de combustión interna) * 100.
 
 ## Enfoque Financiero: 📈
