@@ -65,34 +65,39 @@ Nuestra consultora se ha comprometido a contribuir al proceso de toma de decisio
 
 ## Enfoque Operativo:
 
-- Objetivo: Mejorar la eficiencia y la rentabilidad operativa de la flota de transporte de pasajeros.
+El enfoque operativo se centra en optimizar la eficiencia y la rentabilidad de la flota de transporte de pasajeros.
 
 ### AHORRO DE COSTOS OPERATIVOS EN FLOTA DE TAXIS
 
-- **Definición:** Medir el ahorro porcentual en costos operativos (combustible, mantenimiento, autonomía, etc) al utilizar vehículos eléctricos en lugar de vehículos de combustión interna durante el primer año.
-- **Fórmula:** ((Costos operativos de la flota de taxis con vehículos de combustión interna - Costos operativos de la flota de taxis con vehículos eléctricos) / Costos operativos de la flota de taxis con vehículos de combustión interna) * 100.
-- **Objetivo temporal:** Alcanzar un ahorro del 15% en costos operativos en el primer año de implementación de vehículos eléctricos.
+- Definición: Medir el ahorro porcentual en costos operativos (combustible, mantenimiento, autonomía, etc) al utilizar vehículos eléctricos en lugar de vehículos de combustión interna durante el primer año.
+- Objetivo temporal: Reducir un 15% en costos operativos en el primer año de implementación de vehículos eléctricos.
+- Fórmula: ((Costos operativos de la flota de taxis con vehículos de combustión interna - Costos operativos de la flota de taxis con vehículos eléctricos) / Costos operativos de la flota de taxis con vehículos de combustión interna) * 100.
 
 ## Enfoque Ambiental:
 
-- Objetivo: Reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
+Este enfoque pretende reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
 
 ### REDUCCIÓN DE EMISIONES DE CARBONO EN FLOTA DE TAXIS
 
-- **Definición:** Medir la disminución porcentual de las emisiones de carbono durante un año, al utilizar vehículos eléctricos en lugar de vehículos de combustión interna.
--  **Fórmula:**  ((Emisiones de carbono de la flota de taxis con vehículos de combustión interna - Emisiones de carbono de la flota de taxis con vehículos eléctricos) / Emisiones de carbono de la flota de taxis con vehículos de combustión interna) * 100.
--  **Objetivo temporal:** Lograr una reducción del 30% en las emisiones de carbono en un año al cambiar a vehículos eléctricos.
+- Definición: Medir la disminución porcentual de las emisiones de carbono durante un año, al utilizar vehículos eléctricos en lugar de vehículos de combustión interna.
+-  Objetivo temporal: Lograr una reducción del 30% en las emisiones de carbono en un año al cambiar a vehículos eléctricos.
+-  Fórmula:  ((Emisiones de carbono de la flota de taxis con vehículos de combustión interna - Emisiones de carbono de la flota de taxis con vehículos eléctricos) / Emisiones de carbono de la flota de taxis con vehículos de combustión interna) * 100.
 
+### DISMINUCIÓN DE CONTAMINACIÓN SONORA EN FLOTA DE TAXIS
+
+-  Definición: Reducir la contaminación sonora en la flota de vehículos eléctricos en comparación con los de combustión, utilizando la velocidad promedio como indicador y estimando la emisión de presión sonora por tipo de vehículo.
+-  Objetivo temporal: Reducir la contaminación sonora en la flota de vehículos eléctricos en comparación con los de combustión en un plazo definido, basado en la implementación de medidas para promover el uso de vehículos eléctricos en áreas urbanas y de alto tráfico.
+-  Fórmula:  ((Emisiones acústicas de la flota de taxis con vehículos de combustión interna - Emisiones acústicas de la flota de taxis con vehículos eléctricos) / Emisiones acústicas de la flota de taxis con vehículos de combustión interna) * 100.
 
 ## Enfoque Financiero:
 
-- Objetivo: Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículos eléctricos.
+Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículos eléctricos.
 
 ### REDUCCIÓN DE TIEMPO DE RETORNO DE INVERSIÓN (ROI)
 
-- **Definición:** Determinar el período de tiempo necesario para recuperar el costo de adquisición de vehículos eléctricos en flota de taxis, a través de los ahorros en combustible y mantenimiento, en un plazo máximo de tres años.
-- **Fórmula:** Costo total del vehículo eléctrico / Ganancias netas anuales.
-- **Objetivo temporal:** Lograr un tiempo de retorno de la inversión en vehículos eléctricos menor a 3 años, proyectando el resultado económico/financiero del análisis de viajes de taxis del último año.
+- Definición: Determinar el período de tiempo necesario para recuperar el costo de adquisición de vehículos eléctricos en flota de taxis, a través de los ahorros en combustible y mantenimiento, en un plazo máximo de tres años.
+- Objetivo temporal: Lograr un tiempo de retorno de la inversión en vehículos eléctricos menor a 3 años, proyectando el resultado económico/financiero del análisis de viajes de taxis del último año.
+- Fórmula: Costo total del vehículo eléctrico / Ganancias netas anuales.
 
 # Stack tecnológico
 
