@@ -63,7 +63,7 @@ Nuestra consultora se ha comprometido a contribuir al proceso de toma de decisio
 
 # KPIs
 
-## Enfoque Operativo:
+## Enfoque Operativo: 🚗
 
 El enfoque operativo se centra en optimizar la eficiencia y la rentabilidad de la flota de transporte de pasajeros.
 
@@ -73,7 +73,7 @@ El enfoque operativo se centra en optimizar la eficiencia y la rentabilidad de l
 - Objetivo temporal: Reducir un 15% en costos operativos en el primer año de implementación de vehículos eléctricos.
 - Fórmula: ((Costos operativos de la flota de taxis con vehículos de combustión interna - Costos operativos de la flota de taxis con vehículos eléctricos) / Costos operativos de la flota de taxis con vehículos de combustión interna) * 100.
 
-## Enfoque Ambiental:
+## Enfoque Ambiental: 🌳
 
 Este enfoque pretende reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
 
@@ -89,7 +89,7 @@ Este enfoque pretende reducir el impacto ambiental de la flota de transporte de 
 -  Objetivo temporal: Reducir la contaminación sonora en la flota de vehículos eléctricos en comparación con los de combustión en un plazo definido, basado en la implementación de medidas para promover el uso de vehículos eléctricos en áreas urbanas y de alto tráfico.
 -  Fórmula:  ((Emisiones acústicas de la flota de taxis con vehículos de combustión interna - Emisiones acústicas de la flota de taxis con vehículos eléctricos) / Emisiones acústicas de la flota de taxis con vehículos de combustión interna) * 100.
 
-## Enfoque Financiero:
+## Enfoque Financiero: 📈
 
 Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículos eléctricos.
 
