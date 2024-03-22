@@ -73,7 +73,14 @@ Eficiencia energetica = Cantidad de combustible utilizada (en litros) / Distanci
 
 ## Enfoque Ambiental:
 
-### Objetivo: Reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
+Reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
+
+### Reducción de emisiones de carbono en flota de taxi
+
+- Definición: Medir la disminución porcentual de las emisiones de carbono durante un año, en la flota de taxis al cambiar a vehículos eléctricos.
+-  Fórmula:  ((Emisiones de carbono de la flota de taxis con vehículos de combustión interna - Emisiones de carbono de la flota de taxis con vehículos eléctricos) / Emisiones de carbono de la flota de taxis con vehículos de combustión interna) * 100.
+-  Objetivo temporal: Lograr una reducción del 30% en las emisiones de carbono en un año al cambiar a vehículos eléctricos.
+
 
 - Nivel de contaminación sonora en áreas urbanas: Evaluar los niveles de ruido generados por los vehículos durante las horas de mayor actividad. 
 
