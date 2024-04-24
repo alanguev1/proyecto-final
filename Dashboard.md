@@ -1,1 +1,1 @@
-[Enlace al Dashboard de Power BI](https://drive.google.com/uc?id=1s6tTnVpFGGlzUdIRJ4zvbCXhDfuYACvY)
+[Enlace al Dashboard de Power BI](https://drive.google.com/drive/folders/1wb1Xj5JFfg4QyO3bw5nPirySqyTNjLwc?usp=sharing)
