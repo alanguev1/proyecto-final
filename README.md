@@ -88,6 +88,7 @@ Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículo
 - Power BI <img src="img/pbi.png" alt="Python" width="20"/>
 - Flask <img src="img/flask.jpg" alt="Python" width="20"/>
 - Google Cloud Platform (GCP) <img src="img/gcp.png" alt="Python" width="30"/>
+- Streamlit <img src="img/img/cover.jpg" alt="Python" width="30"/>
 
 # Workflow Pipeline ETL
 
