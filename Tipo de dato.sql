@@ -1,0 +1,3 @@
+SELECT *
+FROM taxis_amarillos.`2021 - 1`
+WHERE SAFE_CAST(VendorID AS NUMERIC) IS NOT NULL;
