@@ -39,59 +39,42 @@ Este proyecto tiene como alcance examinar cómo los taxis y los servicios de via
 
 # KPIs
 
-## Enfoque Operativo:
+## Enfoque Operativo: 🚗
 
-### Objetivo: Mejorar la eficiencia y la rentabilidad operativa de la flota de transporte de pasajeros.
-
-- Eficiencia en el uso de combustible: Medir el consumo de combustible por kilómetro recorrido para identificar áreas de mejora en la eficiencia energética.
-
-Eficiencia energetica = Cantidad de combustible utilizada (en litros) / Distancia recorrida (en kilometros)
-
-## Enfoque Ambiental:
-
-### Objetivo: Reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
-
-- Nivel de contaminación sonora en áreas urbanas: Evaluar los niveles de ruido generados por los vehículos durante las horas de mayor actividad. 
-
-Nivel de ruido promedio = Numero total de mediciones / Suma de los niveles de ruido medidos.
-​
+El enfoque operativo se centra en optimizar la eficiencia y la rentabilidad de la flota de transporte de pasajeros.
 
 
-- Índice de calidad del aire en áreas de operación: Monitorear la calidad del aire en las zonas donde operan los vehículos de la empresa para medir su impacto ambiental.
+### AHORRO DE COSTOS OPERATIVOS EN FLOTA DE TAXIS
 
-ICA = (∑(Ci / Ci,l) × 100) / n
+- Definición: Medir el ahorro porcentual en costos operativos (combustible, mantenimiento, autonomía, etc) al utilizar vehículos eléctricos en lugar de vehículos de combustión interna durante el primer año.
+- Objetivo temporal: Reducir un 15% en costos operativos en el primer año de implementación de vehículos eléctricos.
+- Fórmula: ((Costos operativos de la flota de taxis con vehículos de combustión interna - Costos operativos de la flota de taxis con vehículos eléctricos) / Costos operativos de la flota de taxis con vehículos de combustión interna) * 100.
 
-Donde:
+## Enfoque Ambiental: 🌳
 
-- ICA es el Índice de Calidad del Aire.
+Este enfoque pretende reducir el impacto ambiental de la flota de transporte de pasajeros y evaluar la viabilidad de la transición a vehículos eléctricos.
 
-- n es el número total de contaminantes considerados.
+### REDUCCIÓN DE EMISIONES DE CARBONO EN FLOTA DE TAXIS
 
-- Ci es la concentración del contaminante 
+- Definición: Medir la disminución porcentual de las emisiones de carbono durante un año, al utilizar vehículos eléctricos en lugar de vehículos de combustión interna.
+-  Objetivo temporal: Lograr una reducción del 30% en las emisiones de carbono en un año al cambiar a vehículos eléctricos.
+-  Fórmula:  ((Emisiones de carbono de la flota de taxis con vehículos de combustión interna - Emisiones de carbono de la flota de taxis con vehículos eléctricos) / Emisiones de carbono de la flota de taxis con vehículos de combustión interna) * 100.
 
-- Ci,l  en el aire (por lo general en microgramos por metro cúbico, µg/m³) medida en la ubicación de interés.
+### DISMINUCIÓN DE CONTAMINACIÓN SONORA EN FLOTA DE TAXIS
 
-- Ci,les el límite máximo permitido para el contaminante i según las normativas ambientales locales o internacionales.
+-  Definición: Reducir la contaminación sonora en la flota de vehículos eléctricos en comparación con los de combustión, utilizando la velocidad promedio como indicador y estimando la emisión de presión sonora por tipo de vehículo.
+-  Objetivo temporal: Reducir 50 % el nivel de presión sonora acumulado en los horarios de congestión para la flota de vehículos eléctricos en comparación con los de combustión. 
+-  Fórmula:  ((Emisiones acústicas de la flota de taxis con vehículos de combustión interna - Emisiones acústicas de la flota de taxis con vehículos eléctricos) / Emisiones acústicas de la flota de taxis con vehículos de combustión interna) * 100.
 
-### Tabla de rangos
+## Enfoque Financiero: 📈
 
-- Excelente: 0 - 50
-- Bueno: 51 - 100
-- Moderado: 101 - 150
-- Malo: 151 - 200
-- Muy malo: 201 - 300
-- Peligroso: > 300
+Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículos eléctricos.
 
+### REDUCCIÓN DE TIEMPO DE RETORNO DE INVERSIÓN (ROI)
 
-
-## Enfoque Financiero:
-
-### Objetivo: Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículos eléctricos.
-
-- Eficiencia en el uso de combustible: Medir el consumo de combustible por kilómetro recorrido para identificar áreas de mejora en la eficiencia energética.
-
-Consumo de energıa por kilometro = Distancia recorrida (en kilometros) / Energía consumida por kilometro (en kWh)
-
+- Definición: Determinar el período de tiempo necesario para recuperar el costo de adquisición de vehículos eléctricos en flota de taxis, a través de los ahorros en combustible y mantenimiento, en un plazo máximo de tres años.
+- Objetivo temporal: Lograr un tiempo de retorno de la inversión en vehículos eléctricos menor a 3 años, proyectando el resultado económico/financiero del análisis de viajes de taxis del último año.
+- Fórmula: Costo total del vehículo eléctrico / Ganancias netas anuales.
 
 # Stack tecnológico
 
