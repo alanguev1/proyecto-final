@@ -90,6 +90,10 @@ Evaluar la rentabilidad y la viabilidad financiera de la transición a vehículo
 - Google Cloud Platform (GCP) <img src="img/gcp.png" alt="Python" width="30"/>
 - Streamlit <img src="img/cover.jpg" alt="Python" width="30"/>
 
+
+# Workflow 
+<img src="img/workflow.png" alt="Workflow">
+
 # Workflow Pipeline ETL
 
 <img src="img/diagrama.drawio.png" alt="Workflow">
